@@ -1,20 +1,19 @@
-[
-  {
+{
+  "location": {
     "id": 1,
-    "name": "Location 1",
-    "latitude": "40.7128",
-    "longitude": "74.0060"
+    "name": "Location 1"
   },
-  {
-    "id": 2,
-    "name": "Location 2",
-    "latitude": "50.7128",
-    "longitude": "84.0060"
+  "temperature": {
+    "value": 20,
+    "unit": "C"
   },
-  {
-    "id": 3,
-    "name": "Location 3",
-    "latitude": "60.7128",
-    "longitude": "94.0060"
+  "wind": " 10 Km/h from North",
+  "air_quality": {
+    "index": 50,
+    "description": "Good"
+  },
+  "cloudiness": {
+    "index": 0,
+    "description": "Clear sky"
   }
-]
+}
