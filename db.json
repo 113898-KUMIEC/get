@@ -16,6 +16,7 @@
         { "nombre": "Darío Felman", "camiseta": "11", "posicion": "DEL" }
       ]
     },
+    {
      "id_partido": 3,
       "titulares": [
         { "nombre": "Hugo Orlando Gatti", "camiseta": "1", "posicion": "POR" },
@@ -32,6 +33,7 @@
       ],
       "dt": "Juan Carlos Lorenzo"
     },
+    {
     "id_partido": 2,
       "titulares": [
         { "nombre": "Hugo Orlando Gatti", "camiseta": "1", "posicion": "POR" },
