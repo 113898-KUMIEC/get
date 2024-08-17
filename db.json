@@ -99,6 +99,7 @@
       ],
       "dt": "Óscar Washington Tabárez"
     },
+    {
      "id_partido": 7,
       "titulares": [
         { "nombre": "Carlos Navarro Montoya", "camiseta": "1", "posicion": "POR" },
@@ -115,6 +116,7 @@
       ],
       "dt": "Jorge Habegger"
     },
+    {
      "id_partido": 8,
       "titulares": [
         { "nombre": "Óscar Córdoba", "camiseta": "1", "posicion": "POR" },
