@@ -1,9 +1,5 @@
 {
-  "finales": [
-    {
-      "id_final": 1,
-      "nombreCompeticion": "Copa Libertadores 1977",
-      "partidos": [
+  "partidos": [
         {
           "id_partido": 1,
           "equipos": [
