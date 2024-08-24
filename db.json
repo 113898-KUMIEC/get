@@ -42,7 +42,7 @@
               ],
               "entrenador": "Yustrich",
               "goles": [
-                {"minuto": "78'", "jugador": "Nelinho"}
+                {"minuto": "", "jugador": ""}
               ]
             }
           ]
@@ -89,7 +89,7 @@
               ],
               "entrenador": "Juan Carlos Lorenzo",
               "goles": [
-                {"minuto": "78'", "jugador": "Nelinho"}
+                {"minuto": "", "jugador": ""}
               ]
             }
           ]
