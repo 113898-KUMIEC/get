@@ -1,1 +1,105 @@
-{"formaciones":[{"id_partido":6,"titulares":[{"nombre":"Carlos Navarro Montoya","camiseta":"1","posicion":"POR"},{"nombre":"Diego Soñora","camiseta":"4","posicion":"DEF"},{"nombre":"Juan Simón","camiseta":"2","posicion":"DEF"},{"nombre":"Alejandro Giuntini","camiseta":"6","posicion":"DEF"},{"nombre":"Luis Abramovich","camiseta":"3","posicion":"DEF"},{"nombre":"Walter Pico","camiseta":"5","posicion":"MED"},{"nombre":"Blas Giunta","camiseta":"8","posicion":"MED"},{"nombre":"Antonio Apud","camiseta":"11","posicion":"MED"},{"nombre":"Sergio Saturno","camiseta":"7","posicion":"DEL"},{"nombre":"Alberto Márcico","camiseta":"9","posicion":"DEL"},{"nombre":"Roberto Cabañas","camiseta":"10","posicion":"DEL"}],"dt":"Óscar Washington Tabárez"},{"id_partido":7,"titulares":[{"nombre":"Carlos Navarro Montoya","camiseta":"1","posicion":"POR"},{"nombre":"Alejandro Giuntini","camiseta":"13","posicion":"DEF"},{"nombre":"Juan Simón","camiseta":"2","posicion":"DEF"},{"nombre":"Carlos Moya","camiseta":"6","posicion":"DEF"},{"nombre":"Carlos Mac Allister","camiseta":"3","posicion":"DEF"},{"nombre":"Diego Soñora","camiseta":"4","posicion":"MED"},{"nombre":"Luis Medero","camiseta":"5","posicion":"MED"},{"nombre":"Carlos Tapia","camiseta":"10","posicion":"MED"},{"nombre":"Sergio Martínez","camiseta":"7","posicion":"DEL"},{"nombre":"Sergio Saturno","camiseta":"15","posicion":"DEL"},{"nombre":"Luis Alberto Carranza","camiseta":"11","posicion":"DEL"}],"dt":"Jorge Habegger"},{"id_partido":8,"titulares":[{"nombre":"Óscar Córdoba","camiseta":"1","posicion":"POR"},{"nombre":"Hugo Ibarra","camiseta":"4","posicion":"DEF"},{"nombre":"Jorge Bermúdez","camiseta":"2","posicion":"DEF"},{"nombre":"Walter Samuel","camiseta":"6","posicion":"DEF"},{"nombre":"Rodolfo Arruabarrena","camiseta":"3","posicion":"DEF"},{"nombre":"Sebastián Battaglia","camiseta":"22","posicion":"MED"},{"nombre":"Cristian Traverso","camiseta":"13","posicion":"MED"},{"nombre":"José Basualdo","camiseta":"18","posicion":"MED"},{"nombre":"Juan Román Riquelme","camiseta":"10","posicion":"MED"},{"nombre":"Guillermo Barros Schelotto","camiseta":"7","posicion":"DEL"},{"nombre":"Martín Palermo","camiseta":"9","posicion":"DEL"}],"dt":"Carlos Bianchi"},{"id_partido":9,"titulares":[{"nombre":"Óscar Córdoba","camiseta":"1","posicion":"POR"},{"nombre":"Hugo Ibarra","camiseta":"4","posicion":"DEF"},{"nombre":"Jorge Bermúdez","camiseta":"2","posicion":"DEF"},{"nombre":"Cristian Traverso","camiseta":"13","posicion":"DEF"},{"nombre":"Aníbal Matellán","camiseta":"6","posicion":"DEF"},{"nombre":"Sebastián Battaglia","camiseta":"22","posicion":"MED"},{"nombre":"Mauricio Serna","camiseta":"5","posicion":"MED"},{"nombre":"José Basualdo","camiseta":"18","posicion":"MED"},{"nombre":"Juan Román Riquelme","camiseta":"10","posicion":"MED"},{"nombre":"Marcelo Delgado","camiseta":"16","posicion":"DEL"},{"nombre":"Martín Palermo","camiseta":"9","posicion":"DEL"}],"dt":"Carlos Bianchi"},{"id_partido":10,"titulares":[{"nombre":"Óscar Córdoba","camiseta":"1","posicion":"POR"},{"nombre":"Hugo Ibarra","camiseta":"4","posicion":"DEF"},{"nombre":"Jorge Bermúdez","camiseta":"2","posicion":"DEF"},{"nombre":"Aníbal Matellán","camiseta":"6","posicion":"DEF"},{"nombre":"Clemente Rodríguez","camiseta":"3","posicion":"DEF"},{"nombre":"Javier Villarreal","camiseta":"19","posicion":"MED"},{"nombre":"Mauricio Serna","camiseta":"5","posicion":"MED"},{"nombre":"Cristian Traverso","camiseta":"13","posicion":"MED"},{"nombre":"Juan Román Riquelme","camiseta":"10","posicion":"MED"},{"nombre":"Walter Gaitán","camiseta":"17","posicion":"DEL"},{"nombre":"Marcelo Delgado","camiseta":"18","posicion":"DEL"}],"dt":"Carlos Bianchi"},{"id_partido":11,"titulares":[{"nombre":"Roberto Abbondanzieri","camiseta":"1","posicion":"POR"},{"nombre":"Hugo Ibarra","camiseta":"4","posicion":"DEF"},{"nombre":"Rolando Schiavi","camiseta":"2","posicion":"DEF"},{"nombre":"Nicolás Burdisso","camiseta":"6","posicion":"DEF"},{"nombre":"Clemente Rodríguez","camiseta":"3","posicion":"DEF"},{"nombre":"Sebastián Battaglia","camiseta":"5","posicion":"MED"},{"nombre":"Raúl Alfredo Cascini","camiseta":"22","posicion":"MED"},{"nombre":"Diego Cagna","camiseta":"8","posicion":"MED"},{"nombre":"Javier Villarreal","camiseta":"20","posicion":"MED"},{"nombre":"Marcelo Delgado","camiseta":"16","posicion":"DEL"},{"nombre":"Carlos Tévez","camiseta":"11","posicion":"DEL"}],"dt":"Carlos Bianchi"},{"id_partido":12,"titulares":[{"nombre":"Roberto Abbondanzieri","camiseta":"1","posicion":"POR"},{"nombre":"Luis Perea","camiseta":"14","posicion":"DEF"},{"nombre":"Rolando Schiavi","camiseta":"2","posicion":"DEF"},{"nombre":"Nicolás Burdisso","camiseta":"6","posicion":"DEF"},{"nombre":"Clemente Rodríguez","camiseta":"3","posicion":"DEF"},{"nombre":"Sebastián Battaglia","camiseta":"5","posicion":"MED"},{"nombre":"Raúl Cascini","camiseta":"22","posicion":"MED"},{"nombre":"Diego Cagna","camiseta":"8","posicion":"MED"},{"nombre":"Matías Donnet","camiseta":"18","posicion":"MED"},{"nombre":"Guillermo Barros Schelotto","camiseta":"7","posicion":"DEL"},{"nombre":"Pedro Iarley","camiseta":"10","posicion":"DEL"}],"dt":"Carlos Bianchi"},{"id_partido":13,"titulares":[{"nombre":"Roberto Abbondanzieri","camiseta":"1","posicion":"POR"},{"nombre":"José María Calvo","camiseta":"15","posicion":"DEF"},{"nombre":"Rolando Schiavi","camiseta":"2","posicion":"DEF"},{"nombre":"Cristian Traverso","camiseta":"13","posicion":"DEF"},{"nombre":"Aníbal Matellán","camiseta":"6","posicion":"DEF"},{"nombre":"Diego Cagna","camiseta":"8","posicion":"MED"},{"nombre":"Raúl Cascini","camiseta":"5","posicion":"MED"},{"nombre":"Andrés Guglielminpietro","camiseta":"23","posicion":"MED"},{"nombre":"Carlos Tévez","camiseta":"10","posicion":"DEL"},{"nombre":"Guillermo Barros Schelotto","camiseta":"7","posicion":"DEL"},{"nombre":"Martín Palermo","camiseta":"9","posicion":"DEL"}],"dt":"Jorge Benítez"},{"id_partido":14,"titulares":[{"nombre":"Roberto Abbondanzieri","camiseta":"1","posicion":"POR"},{"nombre":"Hugo Ibarra","camiseta":"4","posicion":"DEF"},{"nombre":"Rolando Schiavi","camiseta":"2","posicion":"DEF"},{"nombre":"Daniel Díaz","camiseta":"6","posicion":"DEF"},{"nombre":"Juan Krupoviesa","camiseta":"3","posicion":"DEF"},{"nombre":"Sebastián Battaglia","camiseta":"8","posicion":"MED"},{"nombre":"Fernando Gago","camiseta":"5","posicion":"MED"},{"nombre":"Neri Cardozo","camiseta":"19","posicion":"MED"},{"nombre":"Fabián Vargas","camiseta":"11","posicion":"MED"},{"nombre":"Daniel Bilos","camiseta":"9","posicion":"DEL"},{"nombre":"Marcelo Delgado","camiseta":"16","posicion":"DEL"}],"dt":"Alfio Basile"},{"id_partido":15,"titulares":[{"nombre":"Roberto Abbondanzieri","camiseta":"1","posicion":"POR"},{"nombre":"Hugo Ibarra","camiseta":"4","posicion":"DEF"},{"nombre":"Rolando Schiavi","camiseta":"2","posicion":"DEF"},{"nombre":"Daniel Díaz","camiseta":"6","posicion":"DEF"},{"nombre":"Juan Krupoviesa","camiseta":"3","posicion":"DEF"},{"nombre":"Sebastián Battaglia","camiseta":"8","posicion":"MED"},{"nombre":"Fernando Gago","camiseta":"5","posicion":"MED"},{"nombre":"Neri Cardozo","camiseta":"19","posicion":"MED"},{"nombre":"Fabián Vargas","camiseta":"11","posicion":"MED"},{"nombre":"Daniel Bilos","camiseta":"9","posicion":"DEL"},{"nombre":"Marcelo Delgado","camiseta":"16","posicion":"DEL"}],"dt":"Alfio Basile"},{"id_partido":16,"titulares":[{"nombre":"Aldo Bobadilla","camiseta":"1","posicion":"POR"},{"nombre":"Hugo Ibarra","camiseta":"4","posicion":"DEF"},{"nombre":"Daniel Díaz","camiseta":"6","posicion":"DEF"},{"nombre":"Claudio Morel Rodríguez","camiseta":"3","posicion":"DEF"},{"nombre":"Juan Krupoviesa","camiseta":"22","posicion":"DEF"},{"nombre":"Pablo Ledesma","camiseta":"8","posicion":"MED"},{"nombre":"Fernando Gago","camiseta":"5","posicion":"MED"},{"nombre":"Neri Cardozo","camiseta":"19","posicion":"MED"},{"nombre":"Guillermo Marino","camiseta":"10","posicion":"MED"},{"nombre":"Rodrigo Palacio","camiseta":"14","posicion":"DEL"},{"nombre":"Martín Palermo","camiseta":"9","posicion":"DEL"}],"dt":"Alfio Basile"},{"id_partido":17,"titulares":[{"nombre":"Mauricio Caranta","camiseta":"12","posicion":"POR"},{"nombre":"Hugo Ibarra","camiseta":"4","posicion":"DEF"},{"nombre":"Cata Díaz","camiseta":"6","posicion":"DEF"},{"nombre":"Claudio Morel Rodríguez","camiseta":"3","posicion":"DEF"},{"nombre":"Clemente Rodríguez","camiseta":"21","posicion":"DEF"},{"nombre":"Pablo Ledesma","camiseta":"8","posicion":"MED"},{"nombre":"Éver Banega","camiseta":"24","posicion":"MED"},{"nombre":"Neri Cardozo","camiseta":"19","posicion":"MED"},{"nombre":"Juan Román Riquelme","camiseta":"10","posicion":"MED"},{"nombre":"Rodrigo Palacio","camiseta":"14","posicion":"DEL"},{"nombre":"Martín Palermo","camiseta":"9","posicion":"DEL"}],"dt":"Miguel Ángel Russo"},{"id_partido":18,"titulares":[{"nombre":"Mauricio Caranta","camiseta":"1","posicion":"POR"},{"nombre":"Hugo Ibarra","camiseta":"4","posicion":"DEF"},{"nombre":"Julio César Cáceres","camiseta":"2","posicion":"DEF"},{"nombre":"Gabriel Paletta","camiseta":"16","posicion":"DEF"},{"nombre":"Claudio Morel Rodríguez","camiseta":"3","posicion":"DEF"},{"nombre":"Fabián Vargas","camiseta":"22","posicion":"MED"},{"nombre":"Sebastián Battaglia","camiseta":"5","posicion":"MED"},{"nombre":"Jesús Dátolo","camiseta":"23","posicion":"MED"},{"nombre":"Juan Román Riquelme","camiseta":"10","posicion":"MED"},{"nombre":"Rodrigo Palacio","camiseta":"14","posicion":"DEL"},{"nombre":"Lucas Viatri","camiseta":"7","posicion":"DEL"}],"dt":"Carlos Ischia"}]}
+{
+  "finales": [
+    {
+      "id_final": 1,
+      "nombreCompeticion": "Copa Libertadores 1977",
+      "partidos": [
+        {
+          "id_partido": 1,
+          "equipos": [
+            {
+              "id_equipo": 1,
+              "nombre": "Boca Juniors",
+              "jugadores": [
+                {"numero": 1, "posicion": "POR", "nombre": "Hugo Orlando Gatti"},
+                {"numero": 4, "posicion": "DEF", "nombre": "Vicente Pernía"},
+                {"numero": 2, "posicion": "DEF", "nombre": "Francisco Sá"},
+                {"numero": 6, "posicion": "DEF", "nombre": "Roberto Mouzo"},
+                {"numero": 3, "posicion": "DEF", "nombre": "Alberto Tarantini"},
+                {"numero": 20, "posicion": "MED", "nombre": "Daniel Severiano Pavón"},
+                {"numero": 5, "posicion": "MED", "nombre": "Rubén Suñé"},
+                {"numero": 18, "posicion": "MED", "nombre": "Mario Zanabria"},
+                {"numero": 7, "posicion": "DEL", "nombre": "Ernesto Mastrángelo"},
+                {"numero": 9, "posicion": "DEL", "nombre": "Carlos Veglio"},
+                {"numero": 11, "posicion": "DEL", "nombre": "Darío Felman"}
+              ],
+              "entrenador": "Juan Carlos Lorenzo",
+              "goles": [
+                {"minuto": "4'", "jugador": "Carlos Veglio"}
+              ]
+            },
+            {
+              "id_equipo": 2,
+              "nombre": "Cruzeiro",
+              "jugadores": [
+                {"numero": 1, "posicion": "POR", "nombre": "Raul"},
+                {"numero": 4, "posicion": "DEF", "nombre": "Nelinho"},
+                {"numero": 3, "posicion": "DEF", "nombre": "Morais"},
+                {"numero": 2, "posicion": "DEF", "nombre": "Darci Menezes"},
+                {"numero": 15, "posicion": "DEF", "nombre": "Vanderlei"},
+                {"numero": 17, "posicion": "MED", "nombre": "Eduardo"},
+                {"numero": 8, "posicion": "MED", "nombre": "Neca"},
+                {"numero": 10, "posicion": "MED", "nombre": "Zé Carlos"},
+                {"numero": 14, "posicion": "MED", "nombre": "Ely Mendes"},
+                {"numero": 7, "posicion": "DEL", "nombre": "Joãozinho"},
+                {"numero": 9, "posicion": "DEL", "nombre": "Eli Carlos"}
+              ],
+              "entrenador": "Yustrich",
+              "goles": [
+                {"minuto": "78'", "jugador": "Nelinho"}
+              ]
+            }
+          ]
+        },
+        {
+          "id_partido": 2,
+          "equipos": [
+            {
+              "id_equipo": 2,
+              "nombre": "Cruzeiro",
+              "jugadores": [
+                {"numero": 1, "posicion": "POR", "nombre": "Raul"},
+                {"numero": 4, "posicion": "DEF", "nombre": "Nelinho"},
+                {"numero": 3, "posicion": "DEF", "nombre": "Morais"},
+                {"numero": 2, "posicion": "DEF", "nombre": "Darci Menezes"},
+                {"numero": 15, "posicion": "DEF", "nombre": "Vanderlei"},
+                {"numero": 17, "posicion": "MED", "nombre": "Eduardo"},
+                {"numero": 8, "posicion": "MED", "nombre": "Neca"},
+                {"numero": 10, "posicion": "MED", "nombre": "Zé Carlos"},
+                {"numero": 14, "posicion": "MED", "nombre": "Ely Mendes"},
+                {"numero": 7, "posicion": "DEL", "nombre": "Joãozinho"},
+                {"numero": 9, "posicion": "DEL", "nombre": "Eli Carlos"}
+              ],
+              "entrenador": "Yustrich",
+              "goles": [
+                {"minuto": "78'", "jugador": "Nelinho"}
+              ]
+            },
+            {
+              "id_equipo": 1,
+              "nombre": "Boca Juniors",
+              "jugadores": [
+                {"numero": 1, "posicion": "POR", "nombre": "Hugo Orlando Gatti"},
+                {"numero": 4, "posicion": "DEF", "nombre": "Vicente Pernía"},
+                {"numero": 14, "posicion": "DEF", "nombre": "José Luis Tesare"},
+                {"numero": 6, "posicion": "DEF", "nombre": "Roberto Mouzo"},
+                {"numero": 3, "posicion": "DEF", "nombre": "Alberto Tarantini"},
+                {"numero": 10, "posicion": "MED", "nombre": "Jorge Ribolzi"},
+                {"numero": 5, "posicion": "MED", "nombre": "Rubén Suñé"},
+                {"numero": 18, "posicion": "MED", "nombre": "Mario Zanabria"},
+                {"numero": 7, "posicion": "DEL", "nombre": "Ernesto Mastrángelo"},
+                {"numero": 9, "posicion": "DEL", "nombre": "Carlos Veglio"},
+                {"numero": 11, "posicion": "DEL", "nombre": "Darío Felman"}
+              ],
+              "entrenador": "Juan Carlos Lorenzo",
+              "goles": [
+                {"minuto": "78'", "jugador": "Nelinho"}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
